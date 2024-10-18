@@ -1,1 +1,3 @@
 # 1stgit
+this is my first github repo wish me luck 
+......
